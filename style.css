@@ -46,6 +46,10 @@ a {
   transition-duration: 100ms;
 }
 
+.social ul {
+    list-style-type: none;
+}
+
 /* 3. Specific */
 
 .wallpaper {
