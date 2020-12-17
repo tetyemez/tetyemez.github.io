@@ -49,7 +49,7 @@ a {
 /* 3. Specific */
 
 .wallpaper {
-  background-image: url("/galata_tower.jpg");
+  background-image: url("/galata_tower.webp");
   background-position: center;
   background-size: cover;
   opacity: 0.2;
@@ -71,7 +71,7 @@ a {
   padding-top: 100%;
   position: relative;
   width: 100%;
-  margin-left:5px;
+  margin-left: 5px;
 }
 
 .picture-shadow {
@@ -221,4 +221,3 @@ a {
     flex-shrink: 1;
   }
 }
-
